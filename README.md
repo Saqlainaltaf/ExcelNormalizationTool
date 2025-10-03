@@ -18,10 +18,14 @@ Excel Add-in (VBA-based) to normalize text for AI data training — uppercase/lo
 - Prevents double spaces.
 
 ---
-📂 Repository Structure
+📂 Repository Structure :
+
 ExcelNormalizationTool/
+
 ├── src/Normalization.bas # Source VBA code
+
 ├── TheBESTNormalizationTool.xlam # Excel Add-in file
+
 ├── README.md # This file
 -----
 
